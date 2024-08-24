@@ -6,5 +6,6 @@ repo_name: 'calbert1209/library_of_aleksander'
 repo_url: 'https://github.com/calbert1209/library_of_aleksander'
 nav:
     - Home: index.md
+    - 'The End of Evil': '/The_End_of_Evil/index.md'
 theme:
   name: 'material'
