@@ -1,0 +1,10 @@
+site_name: Library of Aleksander
+site_description: 'The Library of Aleksander'
+site_author: 'Christian Albert'
+docs_dir: docs/
+repo_name: 'calbert1209/library_of_aleksander'
+repo_url: 'https://github.com/calbert1209/library_of_aleksander'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
