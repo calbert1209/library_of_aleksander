@@ -48,9 +48,7 @@ The modern history of powerful democracies has shown that there is no such thing
 
 Because of this, you are guaranteed, regardless of who you are, to be in some majority circles, and some minority circles. You will taste of both the control over others in dictating law, and in the slavery of having law dictated upon you.
 
-Your neighbor, who may otherwise think like you, will be willing to sacrifice your liberty to achieve some of his means. Likewise, in a democracy, you will be tempted to make
-
-criminals of your neighbors. As soon as culture teaches people that it is right and proper to destroy liberty under any premise, authority splinters and tyranny grows.
+Your neighbor, who may otherwise think like you, will be willing to sacrifice your liberty to achieve some of his means. Likewise, in a democracy, you will be tempted to make criminals of your neighbors. As soon as culture teaches people that it is right and proper to destroy liberty under any premise, authority splinters and tyranny grows.
 
 ## Violence and destruction
 

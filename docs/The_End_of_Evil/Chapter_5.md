@@ -52,9 +52,7 @@ Under the umbrella of nationality, people are slaves to borders more than at any
 
 The history of freedom shows that even as nations grow strong, the cultural lessons from royalty have been learned. Freedom progresses around the world as population increases. Cultures are destroyed by freedom routinely, and the lessons of each new tactic of deceit are being learned around the world.
 
-The violence of nations increases as the cries of freedom are raised. Hundreds of millions have been murdered and billions
-
-enslaved in recent history; all in futile attempts by evil men to stay in power. As the stability of their empires is challenged they rain blood upon the heads of their protectorates.
+The violence of nations increases as the cries of freedom are raised. Hundreds of millions have been murdered and billions enslaved in recent history; all in futile attempts by evil men to stay in power. As the stability of their empires is challenged they rain blood upon the heads of their protectorates.
 
 The history of freedom shows that such violence is not the growth of evil, but its death. Violence and the enforcement of law are necessary only when culture's grip fails to effectively control the minds of people. The death of kings, the transitions of nations, the mutations of culture and the violence of governments are evidence of the end of evil. Authorities of all kinds are struggling for breath in a world that is learning how to drown them forever. In the world you and I occupy, the war is already won.
 
@@ -64,7 +62,7 @@ We have only to watch evil die.
 
 Nations are a generic umbrella of culture that prove extremely effective for authorities. Nations use commonality in race, language and heritage to persuade ownership of people. Their only shared agent is the border.
 
-As the cultures of royalty disintegrated, nations were created to replace them. Authority sough the same stability of extortion that kingdoms provided, but needed to escape the understanding that people had learned about the tyranny of royalty. They created a new enemy, called “them,” and a new culture called "we".
+As the cultures of royalty disintegrated, nations were created to replace them. Authority sough the same stability of extortion that kingdoms provided, but needed to escape the understanding that people had learned about the tyranny of royalty. They created a new enemy, called “them,” and a new culture called “we”.
 
 Nations drew lines across the globe and eventually swallowed up every inch of inhabitable land known to man. All those who live within these lines become the property of the state. They are taught that they own their governments by means of democracy, communism, theocracy and race. They are taught that their nations belong to them. This is the culture of “we.” The truth is that their nations own them.
 
@@ -108,9 +106,7 @@ Cultures teach that morality and prudence are one in the same. Culture can easil
 
 Morality is freedom. Immorality is the destruction of freedom. Morality is good, immorality is evil. Culture would have you believe that morality is a question of personal vice. It pretends that imprudence is the same thing as immorality. When people believe that enforcing prudence is the same as defending liberty, they can be used to support dramatic increases in the power of authority over people.
 
-The inquisitions of medieval times used the ideas of enforcing morality to expand the power of the Roman church. They
-
-created law and enforcement to force church government into people's lives. It was culturally acceptable because they were enforcing ‘morality’ instead of simple arbitrary control.
+The inquisitions of medieval times used the ideas of enforcing morality to expand the power of the Roman church. They created law and enforcement to force church government into people's lives. It was culturally acceptable because they were enforcing ‘morality’ instead of simple arbitrary control.
 
 The American prohibition of alcohol was touted as a way to counter the effects of alcohol's control over people. In order to fight that control, the US government established a massive police force to control the lives of people. Those who would force prudence on people teach that people are not able to learn intelligent behaviors on their own. Culture teaches that people must not be free to make personal mistakes; it teaches that people are not worthy of ruling their own lives. Without freedom, prudence is meaningless.
 

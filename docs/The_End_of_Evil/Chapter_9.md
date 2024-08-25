@@ -26,9 +26,7 @@ The principle of voice is found in every element of human communication. Writing
 
 The principle of voice explains why freedom is a function of population. As population increases, it is more difficult for culture to maintain control over the speech of people. The more people communicate with one another, the quicker they learn their own value. Population increase brings increased freedom to the world because of the power of voice.
 
-When people are unfettered by the chains of culture, and when they do not believe the lie that they are powerless, they can
-
-change everything. To change the world you must have the faith that you have such ability in yourself. You must open your mouth and speak.
+When people are unfettered by the chains of culture, and when they do not believe the lie that they are powerless, they can change everything. To change the world you must have the faith that you have such ability in yourself. You must open your mouth and speak.
 
 The principle of voice is the passion to convince, the passion to teach, and the passion to create faith. It will strengthen you, and should you choose to use it, you will change lives.
 
@@ -78,9 +76,7 @@ The lessons of evading extortion and control are, likewise, already learned. Glo
 
 Merging public auctions and marketplaces with anonymous, steganographic peer-to-peer networking will forever remove the control of economics from the hands of extortionist authorities. With technologies such as these, people can buy and sell anything without the interference of governments and mafias. Furthermore, governments will not be able to enforce taxation record keeping, since instead of a smaller number of corporations preferred by government, every one of the billions of people on earth will engage their economics directly. Population and technology crush evil.
 
-What other devices can be imagined to free people from the tyranny of communism, terrorism, socialism, democracy, violence and culture? With a human mind, there is no limit to imagination and invention. When technology and innovation
-
-beat down authoritative control, the liberty released will spawn astronomical advances. One ounce of freedom may bring one ounce of technology. Two ounces may bring ten. One free person may bring one idea of innovation; two free people may bring a hundred. Total freedom for all people brings nothing less than infinite opportunity.
+What other devices can be imagined to free people from the tyranny of communism, terrorism, socialism, democracy, violence and culture? With a human mind, there is no limit to imagination and invention. When technology and innovation beat down authoritative control, the liberty released will spawn astronomical advances. One ounce of freedom may bring one ounce of technology. Two ounces may bring ten. One free person may bring one idea of innovation; two free people may bring a hundred. Total freedom for all people brings nothing less than infinite opportunity.
 
 The scale of the speed of human advancement can be seen in thousands of years of history with modest gains in freedom and modest gains in technology. In the most recent few hundred years, technology has exploded. With each degree of freedom achieved, human knowledge builds exponentially.
 

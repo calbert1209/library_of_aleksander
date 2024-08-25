@@ -54,9 +54,7 @@ The bonds of culture are founded in the control of speech and control of the min
 
 The cultural shift away from intellectual property is a telltale sign of the end of government rule. In the past, information was regarded as owed by the people who developed it. This meant that anyone who attempted to use that information could be punished by the violence of law. The future holds a shift in thinking that few will be willing to accept until they see it happen.
 
-Intellectual property is not a principle. Since it must be enforced by restricting the liberties of people, it is an idea and a construct of law. The shift that awaits the world is one of the
-
-impossibility of enforcement. Law will struggle mightily in defense of authority and tax ability, but will ultimately lose. This is the power of global communication and information retention. Nearly every law will become impossible to enforce. The principles of computing power give the freedom necessary for people to escape tyranny.
+Intellectual property is not a principle. Since it must be enforced by restricting the liberties of people, it is an idea and a construct of law. The shift that awaits the world is one of the impossibility of enforcement. Law will struggle mightily in defense of authority and tax ability, but will ultimately lose. This is the power of global communication and information retention. Nearly every law will become impossible to enforce. The principles of computing power give the freedom necessary for people to escape tyranny.
 
 ## Violence replaces culture
 

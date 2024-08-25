@@ -124,9 +124,7 @@ Cultures frequently teach that intelligence is hereditary. In conjunction with t
 
 ## Glorification of historic evils
 
-Contemporary culture has a tendency to romanticize the evils of history. Genocidal warlords such as Alexander are given the title “Great”. Royal masters are bestowed with the honor of
-
-having been a “good king”. Communism's slavery is venerated under the pretense that Joseph Stalin was the reason the system failed. The murders of law enforcement are painted white under the banner of defending the rule of law. Bloodbaths are idealized in the loyalty of armies.
+Contemporary culture has a tendency to romanticize the evils of history. Genocidal warlords such as Alexander are given the title “Great”. Royal masters are bestowed with the honor of having been a “good king”. Communism's slavery is venerated under the pretense that Joseph Stalin was the reason the system failed. The murders of law enforcement are painted white under the banner of defending the rule of law. Bloodbaths are idealized in the loyalty of armies.
 
 Culture would have us ignore the nature of history. It would have us believe that they are fantasies and stories, instead of the struggle of humanity against evil. Billions have lost their lives struggling against tyranny. The lesson of history is not the honor of slaves, or the good of a system or the nobility of a king. It is the nature of evil that we must learn. Do not let culture cloud your knowledge of history by glorifying tyranny.
 
@@ -138,9 +136,7 @@ Culture glorifies the evils of history and teaches that today's blind obedience 
 
 Obedience to authority is the only objective of culture. It has a thousand facets, and a million lies, but its design is always obedience.
 
-Chivalry was the code of honor created by royalty in the middle ages. This honor consisted of blind adoration of knights and noblemen. Peasants and serfs were taught that those who ruled over them and enforced the law of the king were always
-
-respectable and moral. The objective was the obedience of human beings to authority. The teaching of chivalry was that the knights of law enforcement had more value than everyone else.
+Chivalry was the code of honor created by royalty in the middle ages. This honor consisted of blind adoration of knights and noblemen. Peasants and serfs were taught that those who ruled over them and enforced the law of the king were always respectable and moral. The objective was the obedience of human beings to authority. The teaching of chivalry was that the knights of law enforcement had more value than everyone else.
 
 Patriotism is the code of honor created by nations in modern times. This honor consists of total allegiance to whomever controls the nation at the moment. Patriotism offers no choice. You cannot choose which nation to support; you are a slave by birth. You cannot refuse obedience, all law has total claim to you. Patriotism teaches that the nation is glorious and strong, and that people have value only in as much as they bow to it.
 
@@ -152,9 +148,7 @@ All cultures call disobedience treason, and scare people with ideas of treachery
 
 Those who are under the limitation of culture will enforce culture's doctrines upon others. Culture teaches that morality is found in obedience, and so those who believe that authority is rightfully exercised over people will demand that their friends and neighbors behave according to culture's will.
 
-This is the treachery of culture. It convinces people that slavery is morality. It desires only obedience, and people return it in droves. It convinces people that the destruction of freedom
-
-is morality. It pretends that evil is good, and that good is evil. All who would speak against authority in the defense of freedom are condemned.
+This is the treachery of culture. It convinces people that slavery is morality. It desires only obedience, and people return it in droves. It convinces people that the destruction of freedom is morality. It pretends that evil is good, and that good is evil. All who would speak against authority in the defense of freedom are condemned.
 
 At its strongest form, culture is able to convince its people to become soldiers and murder, plunder and conquer new peoples. It has happened in every empire. It has happened in every kingdom and nation. From Nazi warlords to barbarian hordes, and from lynch mobs to law enforcement, authority is expanded and retained by violence.
 
@@ -186,9 +180,7 @@ There is no end to the amount of improvement you can have in your life. There is
 
 There is no greed in desiring more, there is only greed in stealing the labors of another. Theft is evil. It is the nature of authority to steal. Only tyrants posses greed.
 
-When culture teaches that working for money is greed, it also teaches that labor without money is noble. Laboring by rule of
-
-law for the collective “we” is taught as the proper form of ambition. If you cannot choose to give or to keep, then you are not “we;” you are a slave.
+When culture teaches that working for money is greed, it also teaches that labor without money is noble. Laboring by rule of law for the collective “we” is taught as the proper form of ambition. If you cannot choose to give or to keep, then you are not “we;” you are a slave.
 
 ## Suit of law
 
