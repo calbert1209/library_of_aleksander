@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 3 - Authority
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Authority
 
 You were born to this world with sovereignty over your mind and over your life. Your abilities to think, to feel, to learn and to love are your liberty. In you, these capacities are infinite. You have infinite worth.

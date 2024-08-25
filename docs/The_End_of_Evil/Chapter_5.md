@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 5 - Tactics
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Tactics
 
 There is no such thing as anarchy, there is only tyranny.

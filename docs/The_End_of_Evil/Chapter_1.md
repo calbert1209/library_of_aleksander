@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 1 - Freedom
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Freedom
 
 The definition of freedom is the infinite value of the human being. The definition of evil is the destruction of freedom. Everything that is evil teaches people that they have limited value.

@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 6 - Democracy
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Democracy
 
 ## Slavery impersonates liberty

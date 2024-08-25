@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 8 - The Pattern of Liberty
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## The Pattern of Liberty
 
 The pattern of tyranny has repeated itself throughout history. It cycles in every instance of evil, large and small. The pattern of liberty, however, is a singular flow that has been progressing slowly since the beginning of time.

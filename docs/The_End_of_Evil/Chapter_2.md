@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 2 - Earth
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Earth
 
 There is a dark conspiracy which has clouded the minds of humanity throughout all ages. This conspiracy is evil incarnate, and controls vast mountains of human emotions, work, thought and speech. It has been responsible for the deaths of hundreds upon hundreds of millions and the slavery of nearly every being who has ever lived.

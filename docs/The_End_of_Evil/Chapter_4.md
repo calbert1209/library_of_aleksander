@@ -1,3 +1,10 @@
+# The End of Evil - Chapter 4 - Culture
+
+by Jeremy Locke
+
+!!! abstract
+    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+
 ## Culture
 
 Cultures are created to protect power structures. Culture is the enforcer of authority.
