@@ -4,11 +4,11 @@
 
 !!! abstract
 
-    The End of Evil
-    Jeremy Locke
-    Publisher : EndOfEvil.com (February 1, 2006)
-    ISBN-13: 978-0977745104
-    From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
+    - *The End of Evil*
+    - Jeremy Locke
+    - Publisher : EndOfEvil.com (February 1, 2006)
+    - ISBN-13: 978-0977745104
+    - From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
 [第一章　自由](./Chapter_1_JP.md)
 
