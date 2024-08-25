@@ -3,6 +3,7 @@
 ジェレミー・ロック
 
 !!! abstract
+
     The End of Evil
     Jeremy Locke
     Publisher : EndOfEvil.com (February 1, 2006)
