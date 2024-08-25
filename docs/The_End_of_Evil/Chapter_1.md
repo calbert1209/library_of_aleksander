@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-up-24: Back to Index](./index.md)
+
+- [Chapter 2 :octicons-arrow-left-24:](./Chapter_2.md)
+
+</div>
+
 ## Freedom
 
 The definition of freedom is the infinite value of the human being. The definition of evil is the destruction of freedom. Everything that is evil teaches people that they have limited value.
@@ -29,3 +37,11 @@ While evil seeks to destroy or hide a person's worth, freedom shows humans their
 ## You
 
 Everything written in this book is written to destroy the ideas of culture and law. The lesson of this book is simple: nothing on earth is more valuable than you.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-up-24: Back to Index](./index.md)
+
+- [Chapter 2 :octicons-arrow-left-24:](./Chapter_2.md)
+
+</div>
