@@ -48,9 +48,7 @@ We have only to watch evil die.
 
 Nations are a generic umbrella of culture that prove extremely effective for authorities. Nations use commonality in race, language and heritage to persuade ownership of people. Their only shared agent is the border.
 
-As the cultures of royalty disintegrated, nations were created to replace them. Authority sough the same stability of extortion that kingdoms provided, but needed to escape the understanding that people had learned about the tyranny of royalty. They created a new enemy, called “them,” and a new culture called
-
-## we
+As the cultures of royalty disintegrated, nations were created to replace them. Authority sough the same stability of extortion that kingdoms provided, but needed to escape the understanding that people had learned about the tyranny of royalty. They created a new enemy, called “them,” and a new culture called "we".
 
 Nations drew lines across the globe and eventually swallowed up every inch of inhabitable land known to man. All those who live within these lines become the property of the state. They are taught that they own their governments by means of democracy, communism, theocracy and race. They are taught that their nations belong to them. This is the culture of “we.” The truth is that their nations own them.
 
