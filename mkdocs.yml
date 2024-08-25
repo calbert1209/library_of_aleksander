@@ -9,3 +9,8 @@ nav:
     - 'The End of Evil': './The_End_of_Evil/index.md'
 theme:
   name: 'material'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
