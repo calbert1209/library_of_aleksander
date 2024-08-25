@@ -1,32 +1,5 @@
-## Sample
+# The Library of Aleksander
 
-One more, finally. Or not? :)
+[The End of Evil](./The_End_of_Evil/index.md)
 
-Now:
-
-```
-$ some 
-```
-
-Look what she said:
-
-> This is it!
-
-### Subtitle
-
-And now this:
-
-- One
-- Two
-- Three
-
-
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
+[悪の終わり](./The_End_of_Evil/ja/index.md)
