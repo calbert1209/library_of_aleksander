@@ -6,6 +6,13 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 6](./Chapter_6.md)
+
+- [Chapter 8 :octicons-arrow-right-24:](./Chapter_8.md)
+
+</div>
 
 ## Economics
 
@@ -160,3 +167,11 @@ Bureaucracy teaches that people should be able to expect others to behave accord
 Taxation teaches that people deserve to receive roads, protection, schools, and all other manner of services even if they cannot afford them. Flipped upside down, taxation teaches that people have the right to force their neighbors to pay for services without the hassle of asking for permission. Taxation reveals forced labor.
 
 All economic control is slavery.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 6](./Chapter_6.md)
+
+- [Chapter 8 :octicons-arrow-right-24:](./Chapter_8.md)
+
+</div>

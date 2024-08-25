@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 1](./Chapter_1.md)
+
+- [Chapter 3 :octicons-arrow-right-24:](./Chapter_3.md)
+
+</div>
+
 ## Earth
 
 There is a dark conspiracy which has clouded the minds of humanity throughout all ages. This conspiracy is evil incarnate, and controls vast mountains of human emotions, work, thought and speech. It has been responsible for the deaths of hundreds upon hundreds of millions and the slavery of nearly every being who has ever lived.
@@ -121,3 +129,11 @@ Slavery is not a concept of totality. Slavery exists wherever the freedom of man
 Everything that restricts your mind, your movements and your speech is evil. Slavery is found in both the partial and complete destruction of freedom.
 
 Evil compels you to behave in manners that do not benefit you or those you love. Culture and law exercise overwhelming force in the name of propriety and public good. They destroy freedom, and put human lives under other people's control.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 1](./Chapter_1.md)
+
+- [Chapter 3 :octicons-arrow-right-24:](./Chapter_3.md)
+
+</div>

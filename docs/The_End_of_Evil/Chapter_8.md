@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 7](./Chapter_7.md)
+
+- [Chapter 9 :octicons-arrow-right-24:](./Chapter_9.md)
+
+</div>
+
 ## The Pattern of Liberty
 
 The pattern of tyranny has repeated itself throughout history. It cycles in every instance of evil, large and small. The pattern of liberty, however, is a singular flow that has been progressing slowly since the beginning of time.
@@ -103,3 +111,11 @@ The pattern of liberty progresses every time the lies of culture are discovered 
 When there is freedom to move and shop for jurisdictions, you will find that people move to freer societies, not stricter ones. Moreover, elements of evil will gravitate to more restricted societies because they are easier to exert control over. This is the final chapter for evil. Technology, communications and wisdom free people to evade authority, and they will do so with ever increasing effectiveness.
 
 This is the completion of the pattern of liberty. This is where evil ends.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 7](./Chapter_7.md)
+
+- [Chapter 9 :octicons-arrow-right-24:](./Chapter_9.md)
+
+</div>

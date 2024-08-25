@@ -10,7 +10,7 @@ by Jeremy Locke
 
 - [:octicons-arrow-up-24: Back to Index](./index.md)
 
-- [Chapter 2 :octicons-arrow-left-24:](./Chapter_2.md)
+- [Chapter 2 :octicons-arrow-right-24:](./Chapter_2.md)
 
 </div>
 

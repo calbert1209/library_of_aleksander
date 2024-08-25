@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 3](./Chapter_3.md)
+
+- [Chapter 5 :octicons-arrow-right-24:](./Chapter_5.md)
+
+</div>
+
 ## Culture
 
 Cultures are created to protect power structures. Culture is the enforcer of authority.
@@ -243,3 +251,11 @@ The only way to end tyranny is to destroy every tyrant. The more that tyrants ar
 Removing the true nature of violence from news and relegating its understanding to the artificial violence of entertainment teaches people that there is safety in slavery. News reports enable authority when the true cost of tyranny is removed from view. Culture hides the plainest images of blood from people in order to keep them passive.
 
 In reality, evil will stop at nothing to control you, including destroying everything you have and everyone you love. Violence is used in the preservation of tyranny every day. Violence and murder are only weapons of immorality when used to destroy freedom. The defense of freedom is never immoral. Any man who will wield the weapons of violence against innocent people in order to gain authority must be destroyed.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 3](./Chapter_3.md)
+
+- [Chapter 5 :octicons-arrow-right-24:](./Chapter_5.md)
+
+</div>

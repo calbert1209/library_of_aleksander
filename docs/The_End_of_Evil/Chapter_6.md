@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 5](./Chapter_5.md)
+
+- [Chapter 7 :octicons-arrow-right-24:](./Chapter_7.md)
+
+</div>
+
 ## Democracy
 
 ## Slavery impersonates liberty
@@ -69,3 +77,11 @@ Every form of tyranny has failed because people eventually recognized it and ret
 Democracy is the greatest evil that can possibly exist. It is a greater evil than communism, and a greater evil than royalty. All other forms of tyranny are obviously evil because they allowed a few to control the lives of all. Freedom was destroyed for nearly everyone. Democracy, however, teaches that you are free enough to vote, a seemingly better system. Unfortunately, it legitimizes other people voting away your freedoms. This makes it evil. What makes it pure evil, and the greatest form of evil that can possibly exist is that you also vote to take away freedoms.
 
 Everyone becomes a slave — and everyone becomes a master of slaves. Perfect evil.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 5](./Chapter_5.md)
+
+- [Chapter 7 :octicons-arrow-right-24:](./Chapter_7.md)
+
+</div>

@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 4](./Chapter_4.md)
+
+- [Chapter 6 :octicons-arrow-right-24:](./Chapter_6.md)
+
+</div>
+
 ## Tactics
 
 There is no such thing as anarchy, there is only tyranny.
@@ -183,3 +191,11 @@ The definition of evil is the destruction of freedom. If governments were what t
 Governments, by definition, hold a monopoly on violence. Those who seek power over you will not fight your government. Why fight it, when what they wanted to begin with was authority over you? You already have the institution evil men seek. It is natural for evil to seek its place in government. History shows us that every nation ever devised can and will be used as a tool on behalf of evil men.
 
 Evil seeks power. This is an immutable truth. The more power you vest in a government, the more evil you will find there.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 4](./Chapter_4.md)
+
+- [Chapter 6 :octicons-arrow-right-24:](./Chapter_6.md)
+
+</div>

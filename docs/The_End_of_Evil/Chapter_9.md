@@ -6,6 +6,14 @@ by Jeremy Locke
 
     From [Internet Archive](https://archive.org/details/the-end-of-all-evil-jeremy-locke)
 
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 8](./Chapter_8.md)
+
+- [Appendix A :octicons-arrow-right-24:](./Appendix_A.md)
+
+</div>
+
 ## End of Evil
 
 Voice is a principle of intelligence.
@@ -85,3 +93,11 @@ You live after the era of wars, and the only remaining step in the pattern of li
 You are the key. To teach the people of earth the value that they have within themselves you need only speak, and tell them that every good thing is theirs to have. You need only tell them that the glory of liberty is real, and that it belongs to them.
 
 This war is already won. Evil has already been crippled. Every human being on earth is ready to rise and let the chains that held them crumble to dust. This world will be free. If you can see your own value, then stand tall. Ye are called unto liberty.
+
+<div class="grid cards" markdown>
+
+- [:octicons-arrow-left-24: Chapter 8](./Chapter_8.md)
+
+- [Appendix A :octicons-arrow-right-24:](./Appendix_A.md)
+
+</div>
