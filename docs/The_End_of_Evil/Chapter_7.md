@@ -40,7 +40,9 @@ There are people who wish to use your work for their own purposes without provid
 
 ## Tax
 
-There is an extra party to most economic trades that take place on earth. They offer no benefit to either party, and they do not allow you to choose whether or not to include them in the trade. A tax is when someone takes money that does not belong to them. Taxes are law and not principle, because they destroy freedom and must be enforced. Some of the people who tax are common thieves while others are powerful governments. Extortion
+There is an extra party to most economic trades that take place on earth. They offer no benefit to either party, and they do not allow you to choose whether or not to include them in the trade. A tax is when someone takes money that does not belong to them. Taxes are law and not principle, because they destroy freedom and must be enforced. Some of the people who tax are common thieves while others are powerful governments.
+
+## Extortion
 
 The corruption of economics is called extortion. When you labor, but someone else redeems your work without your permission it is tax. To tax someone is to steal from them a portion of their work, or all of it. Under taxation, you work but gain nothing in return. Even when the claim is made that the money will be spent for your benefit, you cannot choose what your work will buy. Under taxation, the extortionist is the master and you are the slave. What amount of time they steal from you is irrelevant, a slave for an hour or a slave for life is still a slave. Failure to pay is penalized by imprisonment or death.
 
@@ -54,7 +56,7 @@ Taxation constantly fluctuates as governments test whether or not they can get m
 
 Because taxation is a function of time, they can pirate from you not just huge percentages of your money today, and not just for the rest of your life, but all possibility of interest on your labors. Government taxation is the single most effective extortion racket that has ever existed. The evil genius comes with the culture — most ‘citizens’ consider it honorable to pay their masters.
 
-Earn, trade, save
+## Earn, trade, save
 
 Taxation is obfuscated in every area of your life. The easiest to see is when they take your money as you earn it. Income tax, regulations and governmental restrictions allow the extortionist to pirate labor before you ever get to put it to your use. You serve them. They leave you the scraps, whatever the percentage of your liberty or labors they allow.
 
@@ -72,9 +74,7 @@ Make no mistake — you are a slave and government is your master. The brillianc
 
 Taxation is a function of time. They will take just as much today as keeps you laboring in their behalf tomorrow. Cultural ideas like “public servant,’ “public works,” “public good,” “public protection” and “social security” illustrate their deviousness. They have actually convinced people that having their money stolen under threat of death is something to be desired. Remember, it is all for your own good.
 
-Constructs such as employee, job, corporation and legal tender are rackets engineered by highly skilled extortionists to restrict behaviors and confiscate wealth. An employee is a person who performs work in trade for money. This is no different from a contractor, a non-employee or a garage sale. You perform work in exchange for someone else’s work. You
-
-create wealth to feed your family and to benefit your life. Employees, however, are constructs of governments to restrict economic behavior. What’s the difference between an employee and a person who only performs some work? If you gather together the thousands of pages of laws, you’ll get the idea of who benefits from the artificial ideas of employee and corporation. Governments play employees and corporations off each other to divert anger over the loss of freedom from its proper target, the extortionist.
+Constructs such as employee, job, corporation and legal tender are rackets engineered by highly skilled extortionists to restrict behaviors and confiscate wealth. An employee is a person who performs work in trade for money. This is no different from a contractor, a non-employee or a garage sale. You perform work in exchange for someone else’s work. You create wealth to feed your family and to benefit your life. Employees, however, are constructs of governments to restrict economic behavior. What’s the difference between an employee and a person who only performs some work? If you gather together the thousands of pages of laws, you’ll get the idea of who benefits from the artificial ideas of employee and corporation. Governments play employees and corporations off each other to divert anger over the loss of freedom from its proper target, the extortionist.
 
 Corporations are constructs invented to restrict the collective behaviors of people. If one person can work on a task, it is clear that many can group together to accomplish more complex tasks. Normally this would just be you and me agreeing to do something together for the benefit of someone else, in exchange for money. Corporations are “creatures of the state” (as governments call them) created to abstract the average person from the simple truth of people conducting trade. If government acknowledged the mammoth restrictions they put upon you which tell you where you can and cannot trade, what you can and cannot trade, how you can and cannot trade and at what price you can and cannot trade, they would have an instant revolt. Corporations allow them to create a demon to hide their own lusts for power and wealth. Corporations today attract the wrath of people as polluters, greedy conglomerates, and usury employers. Despite the truth that a corporation is just you and I trading work. All of this is designed to hide the most advanced extortion racket in history.
 
