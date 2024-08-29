@@ -116,7 +116,9 @@ Environmentalism shares the ideals of communism. It teaches that greed is the en
 
 Environmentalism has one new twist on the ancient lies of evil. It teaches that the dirt you stand on is more valuable than you. It teaches that authority is necessary to ensure that you do not destroy it. As with all evil, it really only cares that you obey. What excuse people choose to follow is of no concern to evil.
 
-Culture teaches that the only security to be found in life is in government. Only they can secure your water, your air and your food. Yield authority to them. The strength of environmentalism is that it can be used to regulate every aspect of your life. Transportation, food, housing, energy and communication; they all fall under this umbrella of regulation and control. Environmentalism is just one more excuse to implement slavery. Bureaucracy
+Culture teaches that the only security to be found in life is in government. Only they can secure your water, your air and your food. Yield authority to them. The strength of environmentalism is that it can be used to regulate every aspect of your life. Transportation, food, housing, energy and communication; they all fall under this umbrella of regulation and control. Environmentalism is just one more excuse to implement slavery. 
+
+## Bureaucracy
 
 It is extremely important to see that bureaucracy is not just an inconvenience. The slavery of bureaucracy lies in force and compulsion.
 
@@ -146,7 +148,9 @@ The idea of right was created by men who sought to free people from some of the 
 
 The problem with rights, is that they offer certain delineated permissions, granted to men by government. After these, government can still dispose of you as it pleases. Even in measures of restriction, this still teaches people that they have less value than law.
 
-The truth is that you are free, and there is no authority that has any claim upon you, ever. You are, by your nature, already free. This is the value of a human being. Law enforcement
+The truth is that you are free, and there is no authority that has any claim upon you, ever. You are, by your nature, already free. This is the value of a human being. 
+
+## Law enforcement
 
 Culture teaches that police are the only ones who’s right it is to defend a people. It teaches that if people were able to defend themselves, anarchy would be the result.
 
