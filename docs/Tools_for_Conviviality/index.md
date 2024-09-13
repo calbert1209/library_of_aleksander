@@ -10,11 +10,11 @@ Ivan Illich
 
 ### Introduction
 
-[### I. Two Watersheds](./Part_1.md)
+### [I. Two Watersheds](./Part_1.md)
 
-[### II. Convivial Reconstruction](./Part_2.md)
+### [II. Convivial Reconstruction](./Part_2.md)
 
-[### III. The Multiple Balance](./Part_3.md)
+### [III. The Multiple Balance](./Part_3.md)
 
 1. Biological Degradation
 2. Radical Monopoly
@@ -23,20 +23,20 @@ Ivan Illich
 5. Obsolescence
 6. Frustration
 
-[### IV. Recovery](./Part_4.md)
+### [IV. Recovery](./Part_4.md)
 
 1. The Demythologization of Science
 2. The Rediscovery of Language
 3. The Recovery of Legal Procedure
 
-[### V. Political Inversion](./Part_5.md)
+### [V. Political Inversion](./Part_5.md)
 
 1. Myths and Majorities
 2. From Breakdown to Chaos
 3. Insight into Crisis
 4. Sudden Change
 
-[### End Matters](./End_Matters.md)
+### [End Matters](./End_Matters.md)
 
 ## Acknowledgments
 
