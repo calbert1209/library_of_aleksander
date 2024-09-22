@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## Freedom
 
 The definition of freedom is the infinite value of the human being. The definition of evil is the destruction of freedom. Everything that is evil teaches people that they have limited value.
@@ -37,6 +41,8 @@ While evil seeks to destroy or hide a person's worth, freedom shows humans their
 ## You
 
 Everything written in this book is written to destroy the ideas of culture and law. The lesson of this book is simple: nothing on earth is more valuable than you.
+
+</section>
 
 <div class="grid cards" markdown>
 
