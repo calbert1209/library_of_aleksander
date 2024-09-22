@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## The Pattern of Liberty
 
 The pattern of tyranny has repeated itself throughout history. It cycles in every instance of evil, large and small. The pattern of liberty, however, is a singular flow that has been progressing slowly since the beginning of time.
@@ -74,7 +78,7 @@ One of the principles of history is that freedom is a function of population. Po
 
 Births expand the human experience and teach people about opportunity, hope and faith. This freedom is not conducive to slavery. The more people that live in a culture, the more dissent you will find. It is nearly impossible to control large numbers of people with primitive cultures. One of the evidences of the completion of the pattern of liberty is the astounding population of earth.
 
-Technology endangers evil on every hand. Its _ use, implementation and imagination are diametrically opposite evil.
+Technology endangers evil on every hand. Its \_ use, implementation and imagination are diametrically opposite evil.
 
 Technology is borne of freedom. Freedom brings wisdom to people who implement learned principles in practical solutions. This search for wisdom teaches people the value that they have within themselves. It teaches them to stretch the limits of their intelligence and faith. This is more than concerning to the control of authority, it is the death of evil.
 
@@ -109,6 +113,8 @@ The pattern of liberty progresses every time the lies of culture are discovered 
 When there is freedom to move and shop for jurisdictions, you will find that people move to freer societies, not stricter ones. Moreover, elements of evil will gravitate to more restricted societies because they are easier to exert control over. This is the final chapter for evil. Technology, communications and wisdom free people to evade authority, and they will do so with ever increasing effectiveness.
 
 This is the completion of the pattern of liberty. This is where evil ends.
+
+</section>
 
 <div class="grid cards" markdown>
 

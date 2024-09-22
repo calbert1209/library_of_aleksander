@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## Democracy
 
 ## Slavery impersonates liberty
@@ -56,7 +60,7 @@ Democracy creates violence and destruction. Democracy teaches people that it is 
 
 Democracies are always welfare states, because everyone is able to create laws legitimizing theft. The strongest democracies have the highest taxation and the most regulation. Government employees are able to influence laws to benefit their own positions and salaries. The more regulation created, the more opportunities for pirating in the name of propriety.
 
-Many wish to control behavior in the name of religion, environment, economics, decency and_ safety. Democracy teaches that these things have more value than human beings. Evil always teaches that achieving specific behaviors from people is more important than the people themselves. Evil would have you believe that righteousness is found in propriety, instead of in you.
+Many wish to control behavior in the name of religion, environment, economics, decency and\_ safety. Democracy teaches that these things have more value than human beings. Evil always teaches that achieving specific behaviors from people is more important than the people themselves. Evil would have you believe that righteousness is found in propriety, instead of in you.
 
 When democratic cultures strengthen, it is obvious to everyone that the legitimacy of law is a farce. Any law is noble as soon as it becomes law. What would be considered the crimes of kidnapping, mugging and murder are now committed for you, in proxy by police. Mature democracies will find certain people who begin dispensing with the excuse of law and simply take what they want when they want it. This is no more evil than law, just more efficient.
 
@@ -75,6 +79,8 @@ Every form of tyranny has failed because people eventually recognized it and ret
 Democracy is the greatest evil that can possibly exist. It is a greater evil than communism, and a greater evil than royalty. All other forms of tyranny are obviously evil because they allowed a few to control the lives of all. Freedom was destroyed for nearly everyone. Democracy, however, teaches that you are free enough to vote, a seemingly better system. Unfortunately, it legitimizes other people voting away your freedoms. This makes it evil. What makes it pure evil, and the greatest form of evil that can possibly exist is that you also vote to take away freedoms.
 
 Everyone becomes a slave — and everyone becomes a master of slaves. Perfect evil.
+
+</section>
 
 <div class="grid cards" markdown>
 

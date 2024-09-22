@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## Tactics
 
 There is no such thing as anarchy, there is only tyranny.
@@ -116,13 +120,13 @@ Environmentalism shares the ideals of communism. It teaches that greed is the en
 
 Environmentalism has one new twist on the ancient lies of evil. It teaches that the dirt you stand on is more valuable than you. It teaches that authority is necessary to ensure that you do not destroy it. As with all evil, it really only cares that you obey. What excuse people choose to follow is of no concern to evil.
 
-Culture teaches that the only security to be found in life is in government. Only they can secure your water, your air and your food. Yield authority to them. The strength of environmentalism is that it can be used to regulate every aspect of your life. Transportation, food, housing, energy and communication; they all fall under this umbrella of regulation and control. Environmentalism is just one more excuse to implement slavery. 
+Culture teaches that the only security to be found in life is in government. Only they can secure your water, your air and your food. Yield authority to them. The strength of environmentalism is that it can be used to regulate every aspect of your life. Transportation, food, housing, energy and communication; they all fall under this umbrella of regulation and control. Environmentalism is just one more excuse to implement slavery.
 
 ## Bureaucracy
 
 It is extremely important to see that bureaucracy is not just an inconvenience. The slavery of bureaucracy lies in force and compulsion.
 
-Those under its power are taught to overlook bureaucracy as just another fact of life. The truth is that bureaucracy does not sustain or improve life, it drains it. The culture of bureaucracy is incredibly strong in many areas of the world. It is able to convince people that they are free while subjecting them to reams of licensing, fees, permissions, and _ reporting requirements. Failure to obey results in fines, imprisonment or death. This is their freedom.
+Those under its power are taught to overlook bureaucracy as just another fact of life. The truth is that bureaucracy does not sustain or improve life, it drains it. The culture of bureaucracy is incredibly strong in many areas of the world. It is able to convince people that they are free while subjecting them to reams of licensing, fees, permissions, and \_ reporting requirements. Failure to obey results in fines, imprisonment or death. This is their freedom.
 
 Bureaucracy benefits primarily those who make their money from it. These are government employees and controllers.
 
@@ -148,7 +152,7 @@ The idea of right was created by men who sought to free people from some of the 
 
 The problem with rights, is that they offer certain delineated permissions, granted to men by government. After these, government can still dispose of you as it pleases. Even in measures of restriction, this still teaches people that they have less value than law.
 
-The truth is that you are free, and there is no authority that has any claim upon you, ever. You are, by your nature, already free. This is the value of a human being. 
+The truth is that you are free, and there is no authority that has any claim upon you, ever. You are, by your nature, already free. This is the value of a human being.
 
 ## Law enforcement
 
@@ -191,6 +195,8 @@ The definition of evil is the destruction of freedom. If governments were what t
 Governments, by definition, hold a monopoly on violence. Those who seek power over you will not fight your government. Why fight it, when what they wanted to begin with was authority over you? You already have the institution evil men seek. It is natural for evil to seek its place in government. History shows us that every nation ever devised can and will be used as a tool on behalf of evil men.
 
 Evil seeks power. This is an immutable truth. The more power you vest in a government, the more evil you will find there.
+
+</section>
 
 <div class="grid cards" markdown>
 

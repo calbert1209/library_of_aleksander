@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## Economics
 
 Economics is the study of the trade of work. The principles of money are scientific, and as with all truths, simple and easy to understand. Government institutions have created artificial ideas such as employee, corporation and dollar to enable them to control your labor. Their objective is to confuse you and make money complex so that they can more easily take it from you.
@@ -167,6 +171,8 @@ Bureaucracy teaches that people should be able to expect others to behave accord
 Taxation teaches that people deserve to receive roads, protection, schools, and all other manner of services even if they cannot afford them. Flipped upside down, taxation teaches that people have the right to force their neighbors to pay for services without the hassle of asking for permission. Taxation reveals forced labor.
 
 All economic control is slavery.
+
+</section>
 
 <div class="grid cards" markdown>
 

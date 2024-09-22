@@ -14,6 +14,10 @@ by Jeremy Locke
 
 </div>
 
+<reader-control></reader-control>
+
+<section class="readable" markdown>
+
 ## Authority
 
 You were born to this world with sovereignty over your mind and over your life. Your abilities to think, to feel, to learn and to love are your liberty. In you, these capacities are infinite. You have infinite worth.
@@ -147,6 +151,8 @@ In order for an intelligent person to choose what is right, they must know who i
 Law is a weapon. It is used by evil to attack its prey. Whether in the name of duty to king, loyalty to state, or rule of law, law is the weapon used to extort and control. Culture upholds the nobility of law. Culture teaches that law is proper and good. It never questions who wrote the law; tyrant and brother are the same. Culture never questions whether or not the law is right. You are to obey no matter what it says. In this fashion, law is a powerful weapon to be used against you. All principalities create volumes of laws that take lifetimes to understand and armies of lawyers to manipulate. All of these things are weapons in the hands of the powerful, which they will use at your expense.
 
 Law holds value only to those who create it, and only because your culture demands that you obey it. The purest invitation to tyranny is your commitment to obey law regardless of what it says. Against you, the law becomes the perfect weapon. Whomever controls the law, controls you. Your worth is measured by the extent of your obedience.
+
+</section>
 
 <div class="grid cards" markdown>
 
